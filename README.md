@@ -6,7 +6,7 @@ For AlfredWorkFlow2 API在线文档搜索
 ![](src/icon.png)
 
 ##安装
-[点我直接下载“API.workflows”](https://raw.githubusercontent.com/jShi-git/cookbook/master/download/%E8%8F%9C%E8%B0%B1.alfredworkflow)
+[点我直接下载“API.workflows”](https://raw.githubusercontent.com/jShi-git/apis/master/download/API.alfredworkflow)
 
 ##项目说明
 1、输入关键字，搜索API
